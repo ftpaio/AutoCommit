@@ -21,7 +21,7 @@ jobs:
       - name: Commit Changes
         run: |
           git config --local user.name "Nitrix"
-          git config --local user.email "vaxeradev@gmail.com"
+          git config --local user.email "nitrixly.dev@gmail.com"
           git add -A
           
           arr[0]="chore(bot): 💤 Just woke up to commit"
